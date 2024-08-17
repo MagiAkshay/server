@@ -1,0 +1,10 @@
+mongodb+srv://magiakshay98:Skyfall@123@magiakshay.k3bhicf.mongodb.net/?retryWrites=true&w=majority&appName=MagiAkshay
+
+
+mongodb+srv://magiakshay98:CatDog@magiakshay.k3bhicf.mongodb.net/?retryWrites=true&w=majority&appName=MagiAkshay
+				
+
+
+
+
+mongodb+srv://username:password@cluster0.mongodb.net/database
